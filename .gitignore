@@ -1,0 +1,23 @@
+# Environment variables (bot token)
+venv/
+.env
+
+# Database files (SQLite)
+*.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Byte-compiled files
+*.so
+*.pyd
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
