@@ -1,6 +1,7 @@
 # Environment variables (bot token)
 venv/
 .env
+.env.local
 
 # Database files (SQLite)
 *.db
