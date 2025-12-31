@@ -25,7 +25,7 @@ A community-driven trading card game (TCG) Discord bot with coins, card packs, a
  
 ---
 
-## Future Features ##
+## Future Features
 
 - **Multiple Card Packs**
  - Allow users to draw more than one card at a time for more variety and chance to grab rarer cards
@@ -43,6 +43,15 @@ A community-driven trading card game (TCG) Discord bot with coins, card packs, a
 - **Future-Proofing**
  - Server-specific database configuration
  - Logging and analytics for admins
+ 
+## License
+This project is licensed under the MIT License.
+
+## Monetization Notice
+This project may offer premium features, paid content, or hosted services in the future.
+Open-source availability of the code does not grant access to official services, databases,
+or paid features.
+
 
 ---
 
